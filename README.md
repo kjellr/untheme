@@ -6,4 +6,4 @@ A WordPress theme inspired by browser defaults. Based on `_s`, with some fairly 
 
 ![Front-end view](https://cldup.com/0N1dc5pv4a.png)
 
-![Editor view](https://cldup.com/6jDKMenMV3.png)
+![Editor view](https://cldup.com/MpaZQ_9k2f.png)
