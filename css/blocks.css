@@ -1,0 +1,20 @@
+/*--------------------------------------------------------------
+# Blocks
+--------------------------------------------------------------*/
+
+.entry-content > *,
+.page-content > * {
+	max-width: 610px;
+}
+
+.entry-content > .alignwide {
+	max-width: 1100px;
+}
+
+.entry-content > .alignfull {
+  max-width: 100%;
+}
+
+.wp-block-quote {
+	border-left: none;
+}
