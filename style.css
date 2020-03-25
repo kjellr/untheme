@@ -375,11 +375,6 @@ a:hover, a:active {
 	display: block;
 }
 
-.post,
-.page {
-	margin: 0 0 1.5rem;
-}
-
 .updated:not(.published) {
 	display: none;
 }
